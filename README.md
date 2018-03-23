@@ -12,4 +12,6 @@ Tambem ao final do desafio os grupos e alunos se reunem para troca de experienci
 Dentro desta mesma pasta existe um arquivo chamado temas, coloque lá algum probrema que voce acha interessante e por votação 
 escolheremos nosso primeiro tema do desafio. 
 
+Todos os processos devem ser baseados no artigo proposto neste link
 
+https://sisacad.educacao.pe.gov.br/bibliotecavirtual/bibliotecavirtual/texto/CadernodeINFOProjetodeDesenvolvimentodeSoftwareRDDI.pdf
